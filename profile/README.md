@@ -1,6 +1,6 @@
 # Welcome to CasmaDev
 
-Hi! I'm Caio Santana Magalhães ([@caiosm1005](https://github.com/caiosm1005)).
+Hi! I'm Caio Santana Magalhães.
 
 This is where I publish open-source projects, experiments, and reusable libraries around software engineering, cloud architecture, developer experience, and AI.
 
